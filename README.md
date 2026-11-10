@@ -20,6 +20,38 @@ The platform uses **flexible GeSe-based nanomaterial biosensors** combined with 
 - **Form Factor:** Flexible, wearable design (lab prototype)
 - **Current stage:** Third-generation lab prototype
 
+## Figures
+
+Photographs and the optical-train schematic below are from [maxkopptech.com/glucose-monitoring](https://maxkopptech.com/glucose-monitoring/) and the site’s [Glucose Monitoring gallery](https://maxkopptech.com/pgc_simply_gallery/glucose-monitoring/). They document the laboratory-stage GeSe / polarimetry prototype. Fingertip photographs are noninvasive self-tests, not a clinical study. Concept renderings that showed a mock 110 mg/dL reading were not included.
+
+![Laboratory optical train schematic](figures/optical-train-632nm-gese-photodetector.png)
+
+*Schematic of the laboratory optical train, labeled on the figure: 632 nm laser, polarizer, half-wave plate, glucose solution, and GeSe photodetector.*
+
+![GeSe device and cross-finger electrodes](figures/gese-device-flexible-electrodes.jpg)
+
+*Laboratory photographs labeled (a) a flexible gold electrode array, (b) a film on a substrate, and (c) a microscope view marked “GeSe crystal” and “Cross-finger electrodes.”*
+
+![Flexible sensor and fingertip](figures/flexible-sensor-and-fingertip.jpg)
+
+*(a) A small interdigitated electrode device on tape. (b) A fingertip holding a small flexible sensor. Laboratory / self-test photographs; noninvasive fingertip use.*
+
+![Labeled laboratory optical setup](figures/lab-optical-setup-labeled.jpg)
+
+*Labeled laboratory bench: sourcemeter, GeSe detector, a beaker marked “Glucose solution,” half-wave plate, polarizer, and laser.*
+
+![Noninvasive fingertip optical self-test](figures/fingertip-optical-self-test.jpg)
+
+*Photograph of a noninvasive fingertip self-test in the laboratory, labeled “Fingers,” “Incident laser,” and “GeSe detector.”*
+
+![Portable prototype being assembled](figures/portable-prototype-assembly.jpg)
+
+*Three-panel photograph of a portable enclosure being assembled, with optical mounts and a small circuit board inside a black box.*
+
+![Finger in the portable prototype slot](figures/portable-prototype-fingertip-slot.jpg)
+
+*A finger placed in the slot of a black boxed laboratory prototype that also has a barrel power connector. Laboratory / self-test photograph.*
+
 ## Intellectual Property
 
 | Filing | Title | Status |
@@ -43,6 +75,7 @@ The platform uses **flexible GeSe-based nanomaterial biosensors** combined with 
 
 ```
 vitasensor/
+├── figures/            # Laboratory photographs, prototype photos, and optical-train schematic
 ├── docs/               # Technical documentation and architecture
 ├── README.md
 └── LICENSE
